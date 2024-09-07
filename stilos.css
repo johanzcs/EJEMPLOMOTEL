@@ -1,0 +1,18 @@
+div{
+    border: 1px solid;
+
+}
+#cuerpo_principal 
+{ 
+    background-color: cadetblue;
+    width: 90%;
+    margin: 0 auto;
+    padding: 2%;
+    box-shadow: 4px 8px 9px 10px crimson;
+
+}
+#capa_general
+{ background-color: aqua;
+    margin: 5%;
+
+}
